@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NominNomi
-- 👀 I’m interested in .Net
+- 👀 I’m interested in coffee & programming
 - 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on .Net
+- 💞️ I’m looking to collaborate on WebAPI WPF Azure DevOps
 - 📫 How to reach me nomin.taichuud@gmail.com
 
 <!---
