@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NominNomi
+- 👋 Hi, I’m @Nomin
 - 👀 I’m interested in coffee & programming
 - 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on WebAPI WPF Azure DevOps
