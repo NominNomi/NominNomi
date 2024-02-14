@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nomin
-- 👀 I’m interested in coffee & programming
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on WebAPI WPF Azure DevOps
+- 👀 I use C# and a little bit Typescript
+- 🌱 I’m currently learning to build Web application using .NetCore and React
+- 💞️ I’m looking to collaborate on WebAPI
 - 📫 How to reach me nomin.taichuud@gmail.com https://www.linkedin.com/in/nomin-taichuud/
 
 <!---
